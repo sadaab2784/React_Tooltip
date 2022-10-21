@@ -1,5 +1,7 @@
 # React_Tooltip
 
+Created a simple tooltip component such that when I hover over a button it shows me a tooltip.
+
 ![Tooltip (1)](https://user-images.githubusercontent.com/106314415/197207481-33976356-4624-450c-a26a-88a034a12223.png)
 
 
