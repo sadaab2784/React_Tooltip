@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sadaab2784/React_Tooltip/static/css/main.5d4eb3ba.chunk.css",
-    "main.js": "/sadaab2784/React_Tooltip/static/js/main.7c9e462b.chunk.js",
-    "main.js.map": "/sadaab2784/React_Tooltip/static/js/main.7c9e462b.chunk.js.map",
-    "runtime-main.js": "/sadaab2784/React_Tooltip/static/js/runtime-main.3a049cdf.js",
-    "runtime-main.js.map": "/sadaab2784/React_Tooltip/static/js/runtime-main.3a049cdf.js.map",
-    "static/js/2.0e2e7a76.chunk.js": "/sadaab2784/React_Tooltip/static/js/2.0e2e7a76.chunk.js",
-    "static/js/2.0e2e7a76.chunk.js.map": "/sadaab2784/React_Tooltip/static/js/2.0e2e7a76.chunk.js.map",
-    "index.html": "/sadaab2784/React_Tooltip/index.html",
-    "precache-manifest.332701d0d5c30654af858af5ee395905.js": "/sadaab2784/React_Tooltip/precache-manifest.332701d0d5c30654af858af5ee395905.js",
-    "service-worker.js": "/sadaab2784/React_Tooltip/service-worker.js",
-    "static/css/main.5d4eb3ba.chunk.css.map": "/sadaab2784/React_Tooltip/static/css/main.5d4eb3ba.chunk.css.map",
-    "static/js/2.0e2e7a76.chunk.js.LICENSE.txt": "/sadaab2784/React_Tooltip/static/js/2.0e2e7a76.chunk.js.LICENSE.txt"
+    "main.css": "/React_Tooltip/static/css/main.5d4eb3ba.chunk.css",
+    "main.js": "/React_Tooltip/static/js/main.7c9e462b.chunk.js",
+    "main.js.map": "/React_Tooltip/static/js/main.7c9e462b.chunk.js.map",
+    "runtime-main.js": "/React_Tooltip/static/js/runtime-main.5273e743.js",
+    "runtime-main.js.map": "/React_Tooltip/static/js/runtime-main.5273e743.js.map",
+    "static/js/2.0e2e7a76.chunk.js": "/React_Tooltip/static/js/2.0e2e7a76.chunk.js",
+    "static/js/2.0e2e7a76.chunk.js.map": "/React_Tooltip/static/js/2.0e2e7a76.chunk.js.map",
+    "index.html": "/React_Tooltip/index.html",
+    "precache-manifest.7cd198dd8417103e1656a6f61ca85854.js": "/React_Tooltip/precache-manifest.7cd198dd8417103e1656a6f61ca85854.js",
+    "service-worker.js": "/React_Tooltip/service-worker.js",
+    "static/css/main.5d4eb3ba.chunk.css.map": "/React_Tooltip/static/css/main.5d4eb3ba.chunk.css.map",
+    "static/js/2.0e2e7a76.chunk.js.LICENSE.txt": "/React_Tooltip/static/js/2.0e2e7a76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a049cdf.js",
+    "static/js/runtime-main.5273e743.js",
     "static/js/2.0e2e7a76.chunk.js",
     "static/css/main.5d4eb3ba.chunk.css",
     "static/js/main.7c9e462b.chunk.js"
